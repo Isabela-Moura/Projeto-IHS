@@ -1,0 +1,1 @@
+savedcmd_/home/de2i150/ihs-project-layout/driver/pci/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/de2i150/ihs-project-layout/driver/pci/Module.symvers -T /home/de2i150/ihs-project-layout/driver/pci/modules.order -i Module.symvers -e 
